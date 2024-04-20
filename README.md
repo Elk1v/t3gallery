@@ -2,7 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deploy (vercel)
+- [x] Make it deploy (vercel)
+- [ ] Setup biome
 - [ ] Scaffold basic ui with mock data
 - [ ] Set db (vercel postgres)
 - [ ] Add auth
