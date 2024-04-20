@@ -5,6 +5,7 @@
 - [x] Make it deploy (vercel)
 - [x] Setup biome and lefthook
 - [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
 - [ ] Set db (vercel postgres)
 - [ ] Add auth
 - [ ] Add image uplaod
