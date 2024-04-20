@@ -3,7 +3,7 @@
 ## TODO
 
 - [x] Make it deploy (vercel)
-- [ ] Setup biome
+- [x] Setup biome and lefthook
 - [ ] Scaffold basic ui with mock data
 - [ ] Set db (vercel postgres)
 - [ ] Add auth
