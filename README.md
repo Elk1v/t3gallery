@@ -6,7 +6,8 @@
 - [x] Setup biome and lefthook
 - [x] Scaffold basic ui with mock data
 - [x] Tidy up build process
-- [ ] Set db (vercel postgres)
+- [x] Set db (vercel postgres)
+- [x] Attach db to UI
 - [ ] Add auth
 - [ ] Add image uplaod
 - [ ] Error management (w/ Sentry)
